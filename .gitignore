@@ -1,0 +1,6 @@
+*.egg-info
+*.pyc
+dist/*
+*.tar*
+deb_dist/*
+__pycache__/*
